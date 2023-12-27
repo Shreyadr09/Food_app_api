@@ -39,240 +39,256 @@
       },
       {
         "id": 16,
-        "name": "Samosa",
-        "price": 4.95,
-        "description": "Crispy pastry filled with spiced potatoes, peas, and cumin, served with mint chutney.",
-        "image": "https://source.unsplash.com/rDEOVtE7vOs"
+        "name": "Vegetable Korma",
+        "price": 8.25,
+        "description": "Assorted vegetables cooked in a creamy, mildly spiced cashew and coconut-based sauce.",
+        "image": "https://source.unsplash.com/A3OMLM1g6f0"
       },
       {
         "id": 17,
         "name": "Tandoori Chicken",
-        "price": 8.95,
-        "description": "Chicken marinated in yogurt and spices, grilled to perfection, and served with mint chutney.",
-        "image": "https://source.unsplash.com/Q59HmzK38eQ"
+        "price": 9.5,
+        "description": "Chicken marinated in a blend of yogurt and spices, roasted to perfection in a tandoor (clay oven).",
+        "image": "https://source.unsplash.com/bZzYDQKDVQo"
       },
       {
         "id": 18,
-        "name": "Vegetable Korma",
+        "name": "Aloo Gobi",
+        "price": 6.95,
+        "description": "Potatoes and cauliflower florets cooked with onions, tomatoes, and aromatic spices.",
+        "image": "https://source.unsplash.com/ubynb2OJX6U"
+      },
+      {
+        "id": 19,
+        "name": "Fish Curry",
+        "price": 12.25,
+        "description": "Fish fillets simmered in a tangy and spicy curry with coconut milk and South Indian spices.",
+        "image": "https://source.unsplash.com/WuQMYRPNlsg"
+      },
+      {
+        "id": 20,
+        "name": "Chana Masala",
         "price": 7.5,
-        "description": "Mixed vegetables cooked in a creamy coconut and cashew sauce with aromatic spices.",
-        "image": "https://source.unsplash.com/Fb2gU8gjdlM"
-      }
-    ]
-  },
-  {
-    "name": "ITALIAN SPECIALTIES",
-    "products": [
+        "description": "Chickpeas cooked in a flavorful tomato-based sauce with onions, garlic, and a blend of spices.",
+        "image": "https://source.unsplash.com/3MaGQb5D31A"
+      },
       {
         "id": 21,
-        "name": "Margherita Pizza",
-        "price": 12.5,
-        "description": "Classic pizza with tomato sauce, fresh mozzarella, and basil.",
-        "image": "https://source.unsplash.com/WpZeoSVeJNs"
+        "name": "Mutton Biryani",
+        "price": 13.5,
+        "description": "Aromatic basmati rice cooked with tender mutton pieces, spices, and garnished with fried onions and mint.",
+        "image": "https://source.unsplash.com/i2AOS5NLSzc"
       },
       {
         "id": 22,
-        "name": "Spaghetti Bolognese",
-        "price": 11.75,
-        "description": "Spaghetti pasta with a hearty meat sauce made with ground beef, tomatoes, and herbs.",
-        "image": "https://source.unsplash.com/XD0b8OcxjY8"
-      },
-      {
-        "id": 23,
-        "name": "Chicken Alfredo",
-        "price": 13.25,
-        "description": "Fettuccine pasta in a creamy Alfredo sauce with grilled chicken and Parmesan cheese.",
-        "image": "https://source.unsplash.com/e6n8UJ0N5AA"
-      },
-      {
-        "id": 24,
-        "name": "Caprese Salad",
-        "price": 9.95,
-        "description": "Fresh tomatoes, mozzarella, and basil drizzled with balsamic glaze.",
-        "image": "https://source.unsplash.com/Me44BmF9Taw"
-      },
-      {
-        "id": 25,
-        "name": "Ravioli with Pesto",
-        "price": 10.5,
-        "description": "Cheese-filled ravioli served with a vibrant pesto sauce and pine nuts.",
-        "image": "https://source.unsplash.com/i9FLJwYbEIc"
-      },
-      {
-        "id": 26,
-        "name": "Seafood Risotto",
-        "price": 14.75,
-        "description": "Creamy risotto with a mix of seafood including shrimp, mussels, and calamari.",
-        "image": "https://source.unsplash.com/3oKkQP6Pp5M"
-      },
-      {
-        "id": 27,
-        "name": "Tiramisu",
-        "price": 7.5,
-        "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
-        "image": "https://source.unsplash.com/SRiu8H4fFT4"
+        "name": "Palak Paneer",
+        "price": 8.95,
+        "description": "Paneer cubes cooked in a creamy spinach sauce with ginger, garlic, and Indian spices.",
+        "image": "https://source.unsplash.com/Sf1TogxwX3k"
       }
     ]
   },
   {
-    "name": "AMERICAN CLASSICS",
+    "name": "SOUTH INDIAN DELIGHTS",
     "products": [
       {
         "id": 31,
-        "name": "Burger Deluxe",
-        "price": 9.5,
-        "description": "Juicy beef patty with lettuce, tomato, cheese, pickles, and special sauce on a sesame seed bun.",
-        "image": "https://source.unsplash.com/PAJ5hn3uW8I"
+        "name": "Masala Dosa",
+        "price": 7.95,
+        "description": "Thin, crispy rice crepes filled with a spiced potato mixture, served with coconut chutney and sambar.",
+        "image": "https://source.unsplash.com/n6iLW9g-7V4"
       },
       {
         "id": 32,
-        "name": "BBQ Pulled Pork Sandwich",
-        "price": 10.25,
-        "description": "Slow-cooked pulled pork in BBQ sauce, served on a toasted bun with coleslaw.",
-        "image": "https://source.unsplash.com/d0XwV6RTtMI"
+        "name": "Uttapam",
+        "price": 8.5,
+        "description": "Thick rice pancake topped with vegetables like tomatoes, onions, and bell peppers, served with coconut chutney.",
+        "image": "https://source.unsplash.com/Vd2Z4RGqsVg"
       },
       {
         "id": 33,
-        "name": "Caesar Salad with Grilled Chicken",
-        "price": 8.75,
-        "description": "Crisp romaine lettuce, croutons, Parmesan cheese, and grilled chicken with Caesar dressing.",
-        "image": "https://source.unsplash.com/rYM1FtukMco"
+        "name": "Rava Idli",
+        "price": 6.75,
+        "description": "Soft and fluffy semolina-based steamed cakes, served with coconut chutney and a variety of chutneys.",
+        "image": "https://source.unsplash.com/3CtWg_QRQSo"
       },
       {
         "id": 34,
-        "name": "Buffalo Wings",
-        "price": 7.95,
-        "description": "Crispy chicken wings tossed in spicy buffalo sauce, served with celery sticks and blue cheese dressing.",
-        "image": "https://source.unsplash.com/8dTqC0fviwU"
+        "name": "Chicken 65",
+        "price": 10.25,
+        "description": "Spicy and flavorful deep-fried chicken bites, a popular South Indian appetizer.",
+        "image": "https://source.unsplash.com/IZHkFCd2_W4"
       },
       {
         "id": 35,
-        "name": "Mac 'n' Cheese",
-        "price": 6.5,
-        "description": "Classic macaroni and cheese with a creamy cheddar cheese sauce.",
-        "image": "https://source.unsplash.com/B9t9jjsYq3s"
+        "name": "Pongal",
+        "price": 7.25,
+        "description": "Savory rice and lentil porridge, seasoned with black pepper, cumin, and garnished with ghee.",
+        "image": "https://source.unsplash.com/UMCuE6cfHKc"
       },
       {
         "id": 36,
-        "name": "New York Cheesecake",
-        "price": 8.5,
-        "description": "Rich and creamy cheesecake topped with your choice of fruit compote or chocolate ganache.",
-        "image": "https://source.unsplash.com/WL3Hfh-7lH8"
+        "name": "Coconut Rice",
+        "price": 6.95,
+        "description": "Fragrant rice cooked with grated coconut, mustard seeds, and curry leaves.",
+        "image": "https://source.unsplash.com/THwHGUGw-4U"
       },
       {
         "id": 37,
-        "name": "Fried Chicken and Waffles",
-        "price": 11.95,
-        "description": "Crispy fried chicken served on top of fluffy waffles, drizzled with maple syrup.",
-        "image": "https://source.unsplash.com/2t_mYZ9zO9o"
+        "name": "Mysore Pak",
+        "price": 3.5,
+        "description": "Sweet and melt-in-the-mouth fudge made with besan (chickpea flour), ghee, and sugar.",
+        "image": "https://source.unsplash.com/HULZBqU7vek"
+      },
+      {
+        "id": 38,
+        "name": "Karimeen Pollichathu",
+        "price": 12.75,
+        "description": "Pearl spot fish marinated in a blend of spices, wrapped in banana leaf, and grilled to perfection.",
+        "image": "https://source.unsplash.com/o9Hm3qUq6Fw"
+      },
+      {
+        "id": 39,
+        "name": "Avial",
+        "price": 8.95,
+        "description": "Mixed vegetables cooked in a coconut and yogurt-based gravy, flavored with curry leaves.",
+        "image": "https://source.unsplash.com/2OjznH30J3k"
       }
     ]
   },
   {
-    "name": "FRESH JUICES",
+    "name": "INDIAN CHAAT CORNER",
     "products": [
       {
         "id": 41,
-        "name": "Tropical Bliss",
+        "name": "Pani Puri",
         "price": 4.5,
-        "description": "A refreshing blend of pineapple, mango, and coconut water.",
-        "image": "https://source.unsplash.com/e0WQm8RXPeE"
+        "description": "Crispy hollow puris filled with a mixture of spicy, tangy tamarind water, mashed potatoes, and chickpeas.",
+        "image": "https://source.unsplash.com/Y8VCqOHJuuc"
       },
       {
         "id": 42,
-        "name": "Citrus Splash",
+        "name": "Bhel Puri",
         "price": 3.75,
-        "description": "A zesty combination of orange, grapefruit, and lime juices.",
-        "image": "https://source.unsplash.com/Z6MIapJ0EgQ"
+        "description": "A delightful street food snack made with puffed rice, sev, chopped vegetables, and tangy chutneys.",
+        "image": "https://source.unsplash.com/FNfSnQFvqmI"
       },
       {
         "id": 43,
-        "name": "Green Goodness",
+        "name": "Samosa Chaat",
         "price": 5.25,
-        "description": "A healthy blend of kale, cucumber, green apple, and lemon.",
-        "image": "https://source.unsplash.com/CpJWbXCHB2o"
+        "description": "Crushed samosas topped with yogurt, chutneys, and spices, creating a mouthwatering chaat experience.",
+        "image": "https://source.unsplash.com/GF6Z0aP8zNQ"
       },
       {
         "id": 44,
-        "name": "Berry Burst",
-        "price": 4.25,
-        "description": "A mix of strawberries, blueberries, and raspberries for a sweet and tangy flavor.",
-        "image": "https://source.unsplash.com/9I3qonY8tnE"
+        "name": "Dahi Puri",
+        "price": 4.75,
+        "description": "Small, crisp puris filled with a mixture of yogurt, tamarind chutney, potatoes, and spices.",
+        "image": "https://source.unsplash.com/zr5vuzC3BuI"
       },
       {
         "id": 45,
-        "name": "Watermelon Cooler",
-        "price": 3.95,
-        "description": "Cooling watermelon juice with a hint of mint for a refreshing experience.",
-        "image": "https://source.unsplash.com/sT04bBPrmNw"
+        "name": "Papdi Chaat",
+        "price": 4.25,
+        "description": "Crunchy papdis topped with yogurt, mint chutney, tamarind chutney, potatoes, and sev.",
+        "image": "https://source.unsplash.com/7Yv9H2YUs8w"
       },
       {
         "id": 46,
-        "name": "Pomegranate Paradise",
-        "price": 4.75,
-        "description": "Antioxidant-rich pomegranate juice with a splash of sparkling water.",
-        "image": "https://source.unsplash.com/gndUKHEWT3Y"
+        "name": "Kachori Chaat",
+        "price": 5.5,
+        "description": "Deep-fried kachoris topped with yogurt, chutneys, and a mix of spices.",
+        "image": "https://source.unsplash.com/jd4E6jySmlI"
       },
       {
         "id": 47,
-        "name": "Mango Tango",
-        "price": 5.5,
-        "description": "The exotic taste of ripe mango blended to perfection.",
-        "image": "https://source.unsplash.com/y6wvS_B2ARQ"
+        "name": "Ragda Pattice",
+        "price": 6.25,
+        "description": "Potato patties served with a spicy white peas curry (ragda) and topped with chutneys.",
+        "image": "https://source.unsplash.com/2EZyjNXDNKM"
+      },
+      {
+        "id": 48,
+        "name": "Chana Chaat",
+        "price": 4.95,
+        "description": "Chickpeas mixed with onions, tomatoes, spices, and chutneys, creating a flavorful and healthy chaat.",
+        "image": "https://source.unsplash.com/PCmQ5Sw5Bbs"
+      },
+      {
+        "id": 49,
+        "name": "Aloo Tikki Chaat",
+        "price": 5.75,
+        "description": "Crispy potato patties topped with yogurt, chutneys, and sev, making a delightful chaat.",
+        "image": "https://source.unsplash.com/2qTInG5ngfs"
       }
     ]
   },
   {
-    "name": "SWEET INDULGENCES",
+    "name": "INDIAN SWEET INDULGENCES",
     "products": [
       {
         "id": 51,
-        "name": "Chocolate Fondue",
-        "price": 9.95,
-        "description": "A delightful assortment of fruits and pastries served with warm chocolate for dipping.",
-        "image": "https://source.unsplash.com/2JNxUkUqI8E"
+        "name": "Gulab Jamun",
+        "price": 2.8,
+        "description": "Soft and spongy milk solids balls soaked in sugar syrup, garnished with pistachios or almonds.",
+        "image": "https://source.unsplash.com/ZRC8ZDsH1x0"
       },
       {
         "id": 52,
-        "name": "Tiramisu",
-        "price": 7.5,
-        "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
-        "image": "https://source.unsplash.com/SRiu8H4fFT4"
+        "name": "Rasgulla",
+        "price": 2.5,
+        "description": "Spongy cottage cheese balls soaked in light sugar syrup, making them a delightful and refreshing dessert.",
+        "image": "https://source.unsplash.com/4w_XC9eM2eo"
       },
       {
         "id": 53,
-        "name": "Red Velvet Cake",
-        "price": 8.75,
-        "description": "Moist and velvety red velvet cake with cream cheese frosting.",
-        "image": "https://source.unsplash.com/8Q_Ud9s1Gbs"
+        "name": "Jalebi",
+        "price": 3.2,
+        "description": "Deep-fried swirls of batter soaked in saffron-infused sugar syrup, creating a sweet and tangy treat.",
+        "image": "https://source.unsplash.com/lE2S3L1cXtQ"
       },
       {
         "id": 54,
-        "name": "Fruit Tart",
-        "price": 6.5,
-        "description": "A buttery tart crust filled with pastry cream and topped with a medley of fresh fruits.",
-        "image": "https://source.unsplash.com/Wq8JDXrLmfk"
+        "name": "Barfi",
+        "price": 4.5,
+        "description": "Sweet confectionery made with condensed milk, sugar, and various flavors like pistachio or coconut.",
+        "image": "https://source.unsplash.com/W_Tv60boPoE"
       },
       {
         "id": 55,
-        "name": "Molten Lava Cake",
-        "price": 8.25,
-        "description": "Decadent chocolate cake with a gooey molten chocolate center, served with vanilla ice cream.",
-        "image": "https://source.unsplash.com/iiLUyWxAhGo"
+        "name": "Ladoo",
+        "price": 3.75,
+        "description": "Round-shaped sweets made with various ingredients like gram flour, semolina, or coconut.",
+        "image": "https://source.unsplash.com/0bU_gzZLrVk"
       },
       {
         "id": 56,
-        "name": "Cheesecake Sampler",
-        "price": 10.5,
-        "description": "A trio of classic, strawberry, and blueberry cheesecakes for the ultimate indulgence.",
-        "image": "https://source.unsplash.com/MOqIziWl3DU"
+        "name": "Kheer",
+        "price": 4.25,
+        "description": "Rice pudding cooked with milk, sugar, and flavored with cardamom, raisins, and nuts.",
+        "image": "https://source.unsplash.com/Gc0gIeWSpD4"
       },
       {
         "id": 57,
-        "name": "Creme Brulee",
-        "price": 7.25,
-        "description": "Smooth vanilla custard with a caramelized sugar crust, served with fresh berries.",
-        "image": "https://source.unsplash.com/XIxPMUj6YTU"
+        "name": "Halwa",
+        "price": 5.25,
+        "description": "A sweet dish made with various ingredients like semolina, carrots, or moong dal, cooked in ghee.",
+        "image": "https://source.unsplash.com/5y02giv3l_s"
+      },
+      {
+        "id": 58,
+        "name": "Peda",
+        "price": 3.95,
+        "description": "Small, round sweets made with condensed milk, khoya, and flavored with cardamom or saffron.",
+        "image": "https://source.unsplash.com/G6x6Cy-9P9Y"
+      },
+      {
+        "id": 59,
+        "name": "Gajar ka Halwa",
+        "price": 6.5,
+        "description": "A classic Indian dessert made with grated carrots, milk, sugar, and garnished with nuts.",
+        "image": "https://source.unsplash.com/obt2oCNUJCM"
       }
     ]
   }
