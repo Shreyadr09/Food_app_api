@@ -1,0 +1,99 @@
+[
+  {
+    "name": "CURRY DELIGHTS",
+    "products": [
+      {
+        "id": 11,
+        "name": "Butter Chicken",
+        "price": 8.5,
+        "description": "Tender chicken pieces cooked in a rich, creamy tomato-based sauce with butter and Indian spices.",
+        "image": "https://source.unsplash.com/8u2SbWBRiEo"
+      },
+      {
+        "id": 12,
+        "name": "Chicken Biryani",
+        "price": 10.75,
+        "description": "Fragrant basmati rice cooked with succulent chicken pieces, aromatic spices, and garnished with fried onions and fresh coriander.",
+        "image": "https://source.unsplash.com/_x8RLj-KS8I"
+      },
+      {
+        "id": 13,
+        "name": "Paneer Tikka Masala",
+        "price": 9.25,
+        "description": "Cubes of paneer (Indian cottage cheese) marinated in spices, grilled, and then cooked in a flavorful tomato-based curry.",
+        "image": "https://source.unsplash.com/6fpU5h4e6o4"
+      },
+      {
+        "id": 14,
+        "name": "Dal Makhani",
+        "price": 7.75,
+        "description": "A rich and creamy lentil dish made with black lentils, kidney beans, butter, and Indian spices.",
+        "image": "https://source.unsplash.com/EkXh4PqyfCc"
+      }
+    ]
+  },
+  {
+    "name": "SOUTH INDIAN SPECIALTIES",
+    "products": [
+      {
+        "id": 21,
+        "name": "Dosa",
+        "price": 6.75,
+        "description": "Thin, crispy rice crepes served with coconut chutney and tangy sambar (lentil soup).",
+        "image": "https://source.unsplash.com/_0xusHyY-18"
+      },
+      {
+        "id": 22,
+        "name": "Idli-Vada Combo",
+        "price": 5.95,
+        "description": "Soft and fluffy steamed rice cakes (idli) served with fried lentil donuts (vada) and accompanied by coconut chutney and sambar.",
+        "image": "https://source.unsplash.com/t16VwK1SdwI"
+      },
+      {
+        "id": 23,
+        "name": "Chicken Chettinad",
+        "price": 11.5,
+        "description": "A spicy and flavorful chicken curry with roots in the Chettinad region of South India, known for its bold use of spices.",
+        "image": "https://source.unsplash.com/ygZBGC_KY54"
+      }
+    ]
+  },
+  {
+    "name": "CHAAT CORNER",
+    "products": [
+      {
+        "id": 31,
+        "name": "Pani Puri",
+        "price": 4.5,
+        "description": "Crispy hollow puris filled with a mixture of spicy, tangy tamarind water, mashed potatoes, and chickpeas.",
+        "image": "https://source.unsplash.com/Y8VCqOHJuuc"
+      },
+      {
+        "id": 32,
+        "name": "Bhel Puri",
+        "price": 3.75,
+        "description": "A delightful street food snack made with puffed rice, sev, chopped vegetables, and tangy chutneys.",
+        "image": "https://source.unsplash.com/FNfSnQFvqmI"
+      }
+    ]
+  },
+  {
+    "name": "SWEET INDULGENCES",
+    "products": [
+      {
+        "id": 41,
+        "name": "Gulab Jamun",
+        "price": 2.8,
+        "description": "Soft and spongy milk solids balls soaked in sugar syrup, garnished with pistachios or almonds.",
+        "image": "https://source.unsplash.com/ZRC8ZDsH1x0"
+      },
+      {
+        "id": 42,
+        "name": "Rasgulla",
+        "price": 2.5,
+        "description": "Spongy cottage cheese balls soaked in light sugar syrup, making them a delightful and refreshing dessert.",
+        "image": "https://source.unsplash.com/4w_XC9eM2eo"
+      }
+    ]
+  }
+]
