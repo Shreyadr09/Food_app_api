@@ -1,6 +1,6 @@
 [
   {
-    "name": "CURRY DELIGHTS",
+    "name": "INDIAN DELIGHTS",
     "products": [
       {
         "id": 11,
@@ -29,51 +29,196 @@
         "price": 7.75,
         "description": "A rich and creamy lentil dish made with black lentils, kidney beans, butter, and Indian spices.",
         "image": "https://source.unsplash.com/EkXh4PqyfCc"
+      },
+      {
+        "id": 15,
+        "name": "Beef Rogan Josh",
+        "price": 11.95,
+        "description": "Tender pieces of beef slow-cooked in a spicy and aromatic curry with a blend of Indian spices.",
+        "image": "https://source.unsplash.com/4QmKqbYfhLA"
+      },
+      {
+        "id": 16,
+        "name": "Samosa",
+        "price": 4.95,
+        "description": "Crispy pastry filled with spiced potatoes, peas, and cumin, served with mint chutney.",
+        "image": "https://source.unsplash.com/rDEOVtE7vOs"
+      },
+      {
+        "id": 17,
+        "name": "Tandoori Chicken",
+        "price": 8.95,
+        "description": "Chicken marinated in yogurt and spices, grilled to perfection, and served with mint chutney.",
+        "image": "https://source.unsplash.com/Q59HmzK38eQ"
+      },
+      {
+        "id": 18,
+        "name": "Vegetable Korma",
+        "price": 7.5,
+        "description": "Mixed vegetables cooked in a creamy coconut and cashew sauce with aromatic spices.",
+        "image": "https://source.unsplash.com/Fb2gU8gjdlM"
       }
     ]
   },
   {
-    "name": "SOUTH INDIAN SPECIALTIES",
+    "name": "ITALIAN SPECIALTIES",
     "products": [
       {
         "id": 21,
-        "name": "Dosa",
-        "price": 6.75,
-        "description": "Thin, crispy rice crepes served with coconut chutney and tangy sambar (lentil soup).",
-        "image": "https://source.unsplash.com/_0xusHyY-18"
+        "name": "Margherita Pizza",
+        "price": 12.5,
+        "description": "Classic pizza with tomato sauce, fresh mozzarella, and basil.",
+        "image": "https://source.unsplash.com/WpZeoSVeJNs"
       },
       {
         "id": 22,
-        "name": "Idli-Vada Combo",
-        "price": 5.95,
-        "description": "Soft and fluffy steamed rice cakes (idli) served with fried lentil donuts (vada) and accompanied by coconut chutney and sambar.",
-        "image": "https://source.unsplash.com/t16VwK1SdwI"
+        "name": "Spaghetti Bolognese",
+        "price": 11.75,
+        "description": "Spaghetti pasta with a hearty meat sauce made with ground beef, tomatoes, and herbs.",
+        "image": "https://source.unsplash.com/XD0b8OcxjY8"
       },
       {
         "id": 23,
-        "name": "Chicken Chettinad",
-        "price": 11.5,
-        "description": "A spicy and flavorful chicken curry with roots in the Chettinad region of South India, known for its bold use of spices.",
-        "image": "https://source.unsplash.com/ygZBGC_KY54"
+        "name": "Chicken Alfredo",
+        "price": 13.25,
+        "description": "Fettuccine pasta in a creamy Alfredo sauce with grilled chicken and Parmesan cheese.",
+        "image": "https://source.unsplash.com/e6n8UJ0N5AA"
+      },
+      {
+        "id": 24,
+        "name": "Caprese Salad",
+        "price": 9.95,
+        "description": "Fresh tomatoes, mozzarella, and basil drizzled with balsamic glaze.",
+        "image": "https://source.unsplash.com/Me44BmF9Taw"
+      },
+      {
+        "id": 25,
+        "name": "Ravioli with Pesto",
+        "price": 10.5,
+        "description": "Cheese-filled ravioli served with a vibrant pesto sauce and pine nuts.",
+        "image": "https://source.unsplash.com/i9FLJwYbEIc"
+      },
+      {
+        "id": 26,
+        "name": "Seafood Risotto",
+        "price": 14.75,
+        "description": "Creamy risotto with a mix of seafood including shrimp, mussels, and calamari.",
+        "image": "https://source.unsplash.com/3oKkQP6Pp5M"
+      },
+      {
+        "id": 27,
+        "name": "Tiramisu",
+        "price": 7.5,
+        "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+        "image": "https://source.unsplash.com/SRiu8H4fFT4"
       }
     ]
   },
   {
-    "name": "CHAAT CORNER",
+    "name": "AMERICAN CLASSICS",
     "products": [
       {
         "id": 31,
-        "name": "Pani Puri",
-        "price": 4.5,
-        "description": "Crispy hollow puris filled with a mixture of spicy, tangy tamarind water, mashed potatoes, and chickpeas.",
-        "image": "https://source.unsplash.com/Y8VCqOHJuuc"
+        "name": "Burger Deluxe",
+        "price": 9.5,
+        "description": "Juicy beef patty with lettuce, tomato, cheese, pickles, and special sauce on a sesame seed bun.",
+        "image": "https://source.unsplash.com/PAJ5hn3uW8I"
       },
       {
         "id": 32,
-        "name": "Bhel Puri",
+        "name": "BBQ Pulled Pork Sandwich",
+        "price": 10.25,
+        "description": "Slow-cooked pulled pork in BBQ sauce, served on a toasted bun with coleslaw.",
+        "image": "https://source.unsplash.com/d0XwV6RTtMI"
+      },
+      {
+        "id": 33,
+        "name": "Caesar Salad with Grilled Chicken",
+        "price": 8.75,
+        "description": "Crisp romaine lettuce, croutons, Parmesan cheese, and grilled chicken with Caesar dressing.",
+        "image": "https://source.unsplash.com/rYM1FtukMco"
+      },
+      {
+        "id": 34,
+        "name": "Buffalo Wings",
+        "price": 7.95,
+        "description": "Crispy chicken wings tossed in spicy buffalo sauce, served with celery sticks and blue cheese dressing.",
+        "image": "https://source.unsplash.com/8dTqC0fviwU"
+      },
+      {
+        "id": 35,
+        "name": "Mac 'n' Cheese",
+        "price": 6.5,
+        "description": "Classic macaroni and cheese with a creamy cheddar cheese sauce.",
+        "image": "https://source.unsplash.com/B9t9jjsYq3s"
+      },
+      {
+        "id": 36,
+        "name": "New York Cheesecake",
+        "price": 8.5,
+        "description": "Rich and creamy cheesecake topped with your choice of fruit compote or chocolate ganache.",
+        "image": "https://source.unsplash.com/WL3Hfh-7lH8"
+      },
+      {
+        "id": 37,
+        "name": "Fried Chicken and Waffles",
+        "price": 11.95,
+        "description": "Crispy fried chicken served on top of fluffy waffles, drizzled with maple syrup.",
+        "image": "https://source.unsplash.com/2t_mYZ9zO9o"
+      }
+    ]
+  },
+  {
+    "name": "FRESH JUICES",
+    "products": [
+      {
+        "id": 41,
+        "name": "Tropical Bliss",
+        "price": 4.5,
+        "description": "A refreshing blend of pineapple, mango, and coconut water.",
+        "image": "https://source.unsplash.com/e0WQm8RXPeE"
+      },
+      {
+        "id": 42,
+        "name": "Citrus Splash",
         "price": 3.75,
-        "description": "A delightful street food snack made with puffed rice, sev, chopped vegetables, and tangy chutneys.",
-        "image": "https://source.unsplash.com/FNfSnQFvqmI"
+        "description": "A zesty combination of orange, grapefruit, and lime juices.",
+        "image": "https://source.unsplash.com/Z6MIapJ0EgQ"
+      },
+      {
+        "id": 43,
+        "name": "Green Goodness",
+        "price": 5.25,
+        "description": "A healthy blend of kale, cucumber, green apple, and lemon.",
+        "image": "https://source.unsplash.com/CpJWbXCHB2o"
+      },
+      {
+        "id": 44,
+        "name": "Berry Burst",
+        "price": 4.25,
+        "description": "A mix of strawberries, blueberries, and raspberries for a sweet and tangy flavor.",
+        "image": "https://source.unsplash.com/9I3qonY8tnE"
+      },
+      {
+        "id": 45,
+        "name": "Watermelon Cooler",
+        "price": 3.95,
+        "description": "Cooling watermelon juice with a hint of mint for a refreshing experience.",
+        "image": "https://source.unsplash.com/sT04bBPrmNw"
+      },
+      {
+        "id": 46,
+        "name": "Pomegranate Paradise",
+        "price": 4.75,
+        "description": "Antioxidant-rich pomegranate juice with a splash of sparkling water.",
+        "image": "https://source.unsplash.com/gndUKHEWT3Y"
+      },
+      {
+        "id": 47,
+        "name": "Mango Tango",
+        "price": 5.5,
+        "description": "The exotic taste of ripe mango blended to perfection.",
+        "image": "https://source.unsplash.com/y6wvS_B2ARQ"
       }
     ]
   },
@@ -81,18 +226,53 @@
     "name": "SWEET INDULGENCES",
     "products": [
       {
-        "id": 41,
-        "name": "Gulab Jamun",
-        "price": 2.8,
-        "description": "Soft and spongy milk solids balls soaked in sugar syrup, garnished with pistachios or almonds.",
-        "image": "https://source.unsplash.com/ZRC8ZDsH1x0"
+        "id": 51,
+        "name": "Chocolate Fondue",
+        "price": 9.95,
+        "description": "A delightful assortment of fruits and pastries served with warm chocolate for dipping.",
+        "image": "https://source.unsplash.com/2JNxUkUqI8E"
       },
       {
-        "id": 42,
-        "name": "Rasgulla",
-        "price": 2.5,
-        "description": "Spongy cottage cheese balls soaked in light sugar syrup, making them a delightful and refreshing dessert.",
-        "image": "https://source.unsplash.com/4w_XC9eM2eo"
+        "id": 52,
+        "name": "Tiramisu",
+        "price": 7.5,
+        "description": "Classic Italian dessert made with layers of coffee-soaked ladyfingers and mascarpone cheese.",
+        "image": "https://source.unsplash.com/SRiu8H4fFT4"
+      },
+      {
+        "id": 53,
+        "name": "Red Velvet Cake",
+        "price": 8.75,
+        "description": "Moist and velvety red velvet cake with cream cheese frosting.",
+        "image": "https://source.unsplash.com/8Q_Ud9s1Gbs"
+      },
+      {
+        "id": 54,
+        "name": "Fruit Tart",
+        "price": 6.5,
+        "description": "A buttery tart crust filled with pastry cream and topped with a medley of fresh fruits.",
+        "image": "https://source.unsplash.com/Wq8JDXrLmfk"
+      },
+      {
+        "id": 55,
+        "name": "Molten Lava Cake",
+        "price": 8.25,
+        "description": "Decadent chocolate cake with a gooey molten chocolate center, served with vanilla ice cream.",
+        "image": "https://source.unsplash.com/iiLUyWxAhGo"
+      },
+      {
+        "id": 56,
+        "name": "Cheesecake Sampler",
+        "price": 10.5,
+        "description": "A trio of classic, strawberry, and blueberry cheesecakes for the ultimate indulgence.",
+        "image": "https://source.unsplash.com/MOqIziWl3DU"
+      },
+      {
+        "id": 57,
+        "name": "Creme Brulee",
+        "price": 7.25,
+        "description": "Smooth vanilla custard with a caramelized sugar crust, served with fresh berries.",
+        "image": "https://source.unsplash.com/XIxPMUj6YTU"
       }
     ]
   }
