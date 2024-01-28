@@ -4,24 +4,24 @@
     "products": [
       {
         "id": 11,
-        "name": "Butter Chicken",
+        "name": "Paneer Butter Masala",
         "price": 8.5,
-        "description": "Tender chicken pieces cooked in a rich, creamy tomato-based sauce with butter and Indian spices.",
+        "description": "Cubes of paneer (Indian cottage cheese) cooked in a rich, creamy tomato-based sauce with butter and Indian spices.",
         "image": "https://media.istockphoto.com/id/1286704566/photo/image-of-turquoise-blue-cooking-pan-filled-with-butter-chicken-tikka-curry-large-chunks-of.jpg?s=2048x2048&w=is&k=20&c=XN-LhLyIGh91VWouofOgvH8K2rNLo1FSs2jUqyGMzMM="
       },
       {
         "id": 12,
-        "name": "Chicken Biryani",
+        "name": "Vegetable Biryani",
         "price": 10.75,
-        "description": "Fragrant basmati rice cooked with succulent chicken pieces, aromatic spices, and garnished with fried onions and fresh coriander.",
-        "image": "https://plus.unsplash.com/premium_photo-1694141250007-fc4711bb9df1?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "description": "Fragrant basmati rice cooked with assorted vegetables, aromatic spices, and garnished with fried onions and fresh coriander.",
+        "image": "https://media.istockphoto.com/id/1488737992/photo/upma-recipe-suji-ka-upma-rava-upma-with-red-and-coconut-chutney.jpg?s=1024x1024&w=is&k=20&c=u-v3YdnX80PL_xzAKo6nLqZARkkBKfTNI_Z1j3xdR7Y="
       },
       {
         "id": 13,
         "name": "Paneer Tikka Masala",
         "price": 9.25,
         "description": "Cubes of paneer (Indian cottage cheese) marinated in spices, grilled, and then cooked in a flavorful tomato-based curry.",
-        "image": "https://images.unsplash.com/photo-1690401767645-595de0e0e5f8?q=80&w=1913&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "image": "https://media.istockphoto.com/id/1488737992/photo/upma-recipe-suji-ka-upma-rava-upma-with-red-and-coconut-chutney.jpg?s=1024x1024&w=is&k=20&c=u-v3YdnX80PL_xzAKo6nLqZARkkBKfTNI_Z1j3xdR7Y="
       },
       {
         "id": 14,
@@ -32,9 +32,9 @@
       },
       {
         "id": 15,
-        "name": "Beef Rogan Josh",
+        "name": "Vegetable Rogan Josh",
         "price": 11.95,
-        "description": "Tender pieces of beef slow-cooked in a spicy and aromatic curry with a blend of Indian spices.",
+        "description": "Assorted vegetables slow-cooked in a spicy and aromatic curry with a blend of Indian spices.",
         "image": "https://media.istockphoto.com/id/1217568320/photo/kashmiri-rogan-josh.jpg?s=1024x1024&w=is&k=20&c=hj8fHpeN8xF4gFdOyixhTOleGvwLQT--JvaAByj8n14="
       },
       {
@@ -46,9 +46,9 @@
       },
       {
         "id": 17,
-        "name": "Tandoori Chicken",
+        "name": "Tandoori Vegetables",
         "price": 9.5,
-        "description": "Chicken marinated in a blend of yogurt and spices, roasted to perfection in a tandoor (clay oven).",
+        "description": "Assorted vegetables marinated in a blend of yogurt and spices, roasted to perfection in a tandoor (clay oven).",
         "image": "https://media.istockphoto.com/id/953514746/photo/tandoori-chicken-whole-with-naan-and-raita.jpg?s=2048x2048&w=is&k=20&c=9e5PyKzOSI6XUtNJ7iBXuGI43KjlZpJMizYDhlAkr9w="
       },
       {
@@ -60,9 +60,9 @@
       },
       {
         "id": 19,
-        "name": "Fish Curry",
+        "name": "Vegetable Curry",
         "price": 12.25,
-        "description": "Fish fillets simmered in a tangy and spicy curry with coconut milk and South Indian spices.",
+        "description": "Assorted vegetables simmered in a tangy and spicy curry with coconut milk and South Indian spices.",
         "image": "https://media.istockphoto.com/id/462493549/photo/asian-style-fish-curry.jpg?s=2048x2048&w=is&k=20&c=Trdj8CBEYfordF1cu_pWQEdksv9GMn_tMiUfOCFfihg="
       },
       {
@@ -74,9 +74,9 @@
       },
       {
         "id": 21,
-        "name": "Mutton Biryani",
+        "name": "Vegetable Biryani",
         "price": 13.5,
-        "description": "Aromatic basmati rice cooked with tender mutton pieces, spices, and garnished with fried onions and mint.",
+        "description": "Aromatic basmati rice cooked with assorted vegetables, spices, and garnished with fried onions and mint.",
         "image": "https://media.istockphoto.com/id/469866881/photo/mutton-gosht-biryani.jpg?s=2048x2048&w=is&k=20&c=_8EoVyfAJ3HfiQQyl5ZTmtTSazoXOcL5-PfqJAVDYR0="
       },
       {
@@ -114,9 +114,9 @@
       },
       {
         "id": 34,
-        "name": "Chicken 65",
+        "name": "Gobi 65",
         "price": 10.25,
-        "description": "Spicy and flavorful deep-fried chicken bites, a popular South Indian appetizer.",
+        "description": "Spicy and flavorful deep-fried cauliflower bites, a popular South Indian appetizer.",
         "image": "https://media.istockphoto.com/id/1265209311/photo/fried-chicken-kebab-or-kabab.jpg?s=612x612&w=0&k=20&c=cq6fgpRnjpiD3ILifT3bPg2m8EnxtUvG7M8oB-9h1MY="
       },
       {
@@ -142,10 +142,10 @@
       },
       {
         "id": 38,
-        "name": "Karimeen Pollichathu",
-        "price": 12.75,
-        "description": "Pearl spot fish marinated in a blend of spices, wrapped in banana leaf, and grilled to perfection.",
-        "image": "https://media.istockphoto.com/id/1149821046/photo/kerala-fish-curry-karimeen-pollichathu.jpg?s=612x612&w=0&k=20&c=1onbADWy7bpfIvfx0CYHzThv5Qw0_h_RiQuxshD0gow="
+        "name": "Vegetable Upma",
+        "price": 9.25,
+        "description": "A flavorful and hearty dish made from semolina (cream of wheat) cooked with assorted vegetables, tempered with mustard seeds, curry leaves, and garnished with cashews.",
+        "image": "https://media.istockphoto.com/id/1488737992/photo/upma-recipe-suji-ka-upma-rava-upma-with-red-and-coconut-chutney.jpg?s=1024x1024&w=is&k=20&c=u-v3YdnX80PL_xzAKo6nLqZARkkBKfTNI_Z1j3xdR7Y="
       },
       {
         "id": 39,
