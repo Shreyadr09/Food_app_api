@@ -1,242 +1,295 @@
 [
-	{
-		"id": 1,
-		"title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-		"price": 109.95,
-		"description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-		"category": "men's clothing",
-		"image": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg",
-		"rating": {
-			"rate": 3.9,
-			"count": 120
-		}
-	},
-	{
-		"id": 2,
-		"title": "Mens Casual Premium Slim Fit T-Shirts ",
-		"price": 22.3,
-		"description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-		"category": "men's clothing",
-		"image": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg",
-		"rating": {
-			"rate": 4.1,
-			"count": 259
-		}
-	},
-	{
-		"id": 3,
-		"title": "Mens Cotton Jacket",
-		"price": 55.99,
-		"description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
-		"category": "men's clothing",
-		"image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
-		"rating": {
-			"rate": 4.7,
-			"count": 500
-		}
-	},
-	{
-		"id": 4,
-		"title": "Mens Casual Slim Fit",
-		"price": 15.99,
-		"description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person, therefore, detailed size information should be reviewed below on the product description.",
-		"category": "men's clothing",
-		"image": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg",
-		"rating": {
-			"rate": 2.1,
-			"count": 430
-		}
-	},
-	{
-		"id": 5,
-		"title": "John Hardy Women's Legends Naga Gold & Silver Dragon Station Chain Bracelet",
-		"price": 695,
-		"description": "From our Legends Collection, the Naga was inspired by the mythical water dragon that protects the ocean's pearl. Wear facing inward to be bestowed with love and abundance, or outward for protection.",
-		"category": "jewelery",
-		"image": "https://fakestoreapi.com/img/71pWzhdJNwL._AC_UL640_QL65_ML3_.jpg",
-		"rating": {
-			"rate": 4.6,
-			"count": 400
-		}
-	},
-	{
-		"id": 6,
-		"title": "Solid Gold Petite Micropave ",
-		"price": 168,
-		"description": "Satisfaction Guaranteed. Return or exchange any order within 30 days.Designed and sold by Hafeez Center in the United States. Satisfaction Guaranteed. Return or exchange any order within 30 days.",
-		"category": "jewelery",
-		"image": "https://fakestoreapi.com/img/61sbMiUnoGL._AC_UL640_QL65_ML3_.jpg",
-		"rating": {
-			"rate": 3.9,
-			"count": 70
-		}
-	},
-	{
-		"id": 7,
-		"title": "White Gold Plated Princess",
-		"price": 9.99,
-		"description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement, Wedding, Anniversary, Valentine's Day...",
-		"category": "jewelery",
-		"image": "https://fakestoreapi.com/img/71YAIFU48IL._AC_UL640_QL65_ML3_.jpg",
-		"rating": {
-			"rate": 3,
-			"count": 400
-		}
-	},
-	{
-		"id": 8,
-		"title": "Pierced Owl Rose Gold Plated Stainless Steel Double",
-		"price": 10.99,
-		"description": "Rose Gold Plated Double Flared Tunnel Plug Earrings. Made of 316L Stainless Steel",
-		"category": "jewelery",
-		"image": "https://fakestoreapi.com/img/51UDEzMJVpL._AC_UL640_QL65_ML3_.jpg",
-		"rating": {
-			"rate": 1.9,
-			"count": 100
-		}
-	},
-	{
-		"id": 9,
-		"title": "WD 2TB Elements Portable External Hard Drive - USB 3.0 ",
-		"price": 64,
-		"description": "USB 3.0 and USB 2.0 Compatibility Fast data transfers Improve PC Performance High Capacity; Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems; Compatibility may vary depending on user’s hardware configuration and operating system",
-		"category": "electronics",
-		"image": "https://fakestoreapi.com/img/61IBBVJvSDL._AC_SY879_.jpg",
-		"rating": {
-			"rate": 3.3,
-			"count": 203
-		}
-	},
-	{
-		"id": 10,
-		"title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
-		"price": 109,
-		"description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
-		"category": "electronics",
-		"image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg",
-		"rating": {
-			"rate": 2.9,
-			"count": 470
-		}
-	},
-	{
-		"id": 11,
-		"title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
-		"price": 109,
-		"description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
-		"category": "electronics",
-		"image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
-		"rating": {
-			"rate": 4.8,
-			"count": 319
-		}
-	},
-	{
-		"id": 12,
-		"title": "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
-		"price": 114,
-		"description": "Expand your PS4 gaming experience, Play anywhere Fast and easy, setup Sleek design with high capacity, 3-year manufacturer's limited warranty",
-		"category": "electronics",
-		"image": "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
-		"rating": {
-			"rate": 4.8,
-			"count": 400
-		}
-	},
-	{
-		"id": 13,
-		"title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
-		"price": 599,
-		"description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
-		"category": "electronics",
-		"image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
-		"rating": {
-			"rate": 2.9,
-			"count": 250
-		}
-	},
-	{
-		"id": 14,
-		"title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
-		"price": 999.99,
-		"description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
-		"category": "electronics",
-		"image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
-		"rating": {
-			"rate": 2.2,
-			"count": 140
-		}
-	},
-	{
-		"id": 15,
-		"title": "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
-		"price": 56.99,
-		"description": "Note:The Jackets is US standard size, Please choose size as your usual wear Material: 100% Polyester; Detachable Liner Fabric: Warm Fleece. Detachable Functional Liner: Skin Friendly, Lightweigt and Warm.Stand Collar Liner jacket, keep you warm in cold weather. Zippered Pockets: 2 Zippered Hand Pockets, 2 Zippered Pockets on Chest (enough to keep cards or keys)and 1 Hidden Pocket Inside.Zippered Hand Pockets and Hidden Pocket keep your things secure. Humanized Design: Adjustable and Detachable Hood and Adjustable cuff to prevent the wind and water,for a comfortable fit. 3 in 1 Detachable Design provide more convenience, you can separate the coat and inner as needed, or wear it together. It is suitable for different season and help you adapt to different climates",
-		"category": "women's clothing",
-		"image": "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
-		"rating": {
-			"rate": 2.6,
-			"count": 235
-		}
-	},
-	{
-		"id": 16,
-		"title": "Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket",
-		"price": 29.95,
-		"description": "100% POLYURETHANE(shell) 100% POLYESTER(lining) 75% POLYESTER 25% COTTON (SWEATER), Faux leather material for style and comfort / 2 pockets of front, 2-For-One Hooded denim style faux leather jacket, Button detail on waist / Detail stitching at sides, HAND WASH ONLY / DO NOT BLEACH / LINE DRY / DO NOT IRON",
-		"category": "women's clothing",
-		"image": "https://fakestoreapi.com/img/81XH0e8fefL._AC_UY879_.jpg",
-		"rating": {
-			"rate": 2.9,
-			"count": 340
-		}
-	},
-	{
-		"id": 17,
-		"title": "Rain Jacket Women Windbreaker Striped Climbing Raincoats",
-		"price": 39.99,
-		"description": "Lightweight perfet for trip or casual wear---Long sleeve with hooded, adjustable drawstring waist design. Button and zipper front closure raincoat, fully stripes Lined and The Raincoat has 2 side pockets are a good size to hold all kinds of things, it covers the hips, and the hood is generous but doesn't overdo it.Attached Cotton Lined Hood with Adjustable Drawstrings give it a real styled look.",
-		"category": "women's clothing",
-		"image": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg",
-		"rating": {
-			"rate": 3.8,
-			"count": 679
-		}
-	},
-	{
-		"id": 18,
-		"title": "MBJ Women's Solid Short Sleeve Boat Neck V ",
-		"price": 9.85,
-		"description": "95% RAYON 5% SPANDEX, Made in USA or Imported, Do Not Bleach, Lightweight fabric with great stretch for comfort, Ribbed on sleeves and neckline / Double stitching on bottom hem",
-		"category": "women's clothing",
-		"image": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg",
-		"rating": {
-			"rate": 4.7,
-			"count": 130
-		}
-	},
-	{
-		"id": 19,
-		"title": "Opna Women's Short Sleeve Moisture",
-		"price": 7.95,
-		"description": "100% Polyester, Machine wash, 100% cationic polyester interlock, Machine Wash & Pre Shrunk for a Great Fit, Lightweight, roomy and highly breathable with moisture wicking fabric which helps to keep moisture away, Soft Lightweight Fabric with comfortable V-neck collar and a slimmer fit, delivers a sleek, more feminine silhouette and Added Comfort",
-		"category": "women's clothing",
-		"image": "https://fakestoreapi.com/img/51eg55uWmdL._AC_UX679_.jpg",
-		"rating": {
-			"rate": 4.5,
-			"count": 146
-		}
-	},
-	{
-		"id": 20,
-		"title": "DANVOUY Womens T Shirt Casual Cotton Short",
-		"price": 12.99,
-		"description": "95%Cotton,5%Spandex, Features: Casual, Short Sleeve, Letter Print,V-Neck,Fashion Tees, The fabric is soft and has some stretch., Occasion: Casual/Office/Beach/School/Home/Street. Season: Spring,Summer,Autumn,Winter.",
-		"category": "women's clothing",
-		"image": "https://fakestoreapi.com/img/61pHAEJ4NML._AC_UX679_.jpg",
-		"rating": {
-			"rate": 3.6,
-			"count": 145
-		}
-	}
+  {
+    "name": "INDIAN DELIGHTS",
+    "products": [
+      {
+        "id": 11,
+        "name": "Paneer Butter Masala",
+        "price": 8.5,
+        "description": "Cubes of paneer (Indian cottage cheese) cooked in a rich, creamy tomato-based sauce with butter and Indian spices.",
+        "image": "https://media.istockphoto.com/id/1286704566/photo/image-of-turquoise-blue-cooking-pan-filled-with-butter-chicken-tikka-curry-large-chunks-of.jpg?s=2048x2048&w=is&k=20&c=XN-LhLyIGh91VWouofOgvH8K2rNLo1FSs2jUqyGMzMM="
+      },
+      {
+        "id": 12,
+        "name": "Vegetable Biryani",
+        "price": 10.75,
+        "description": "Fragrant basmati rice cooked with assorted vegetables, aromatic spices, and garnished with fried onions and fresh coriander.",
+        "image": "https://media.istockphoto.com/id/1488737992/photo/upma-recipe-suji-ka-upma-rava-upma-with-red-and-coconut-chutney.jpg?s=1024x1024&w=is&k=20&c=u-v3YdnX80PL_xzAKo6nLqZARkkBKfTNI_Z1j3xdR7Y="
+      },
+      {
+        "id": 13,
+        "name": "Paneer Tikka Masala",
+        "price": 9.25,
+        "description": "Cubes of paneer (Indian cottage cheese) marinated in spices, grilled, and then cooked in a flavorful tomato-based curry.",
+        "image": "https://media.istockphoto.com/id/1488737992/photo/upma-recipe-suji-ka-upma-rava-upma-with-red-and-coconut-chutney.jpg?s=1024x1024&w=is&k=20&c=u-v3YdnX80PL_xzAKo6nLqZARkkBKfTNI_Z1j3xdR7Y="
+      },
+      {
+        "id": 14,
+        "name": "Dal Makhani",
+        "price": 7.75,
+        "description": "A rich and creamy lentil dish made with black lentils, kidney beans, butter, and Indian spices.",
+        "image": "https://media.istockphoto.com/id/1170374719/photo/dal-makhani-at-dark-background.jpg?s=2048x2048&w=is&k=20&c=vj91C4Ra1LbxWsIojvR2Z-RqdC_YgfHnvNWatEtTk4U="
+      },
+      {
+        "id": 15,
+        "name": "Vegetable Rogan Josh",
+        "price": 11.95,
+        "description": "Assorted vegetables slow-cooked in a spicy and aromatic curry with a blend of Indian spices.",
+        "image": "https://media.istockphoto.com/id/1217568320/photo/kashmiri-rogan-josh.jpg?s=1024x1024&w=is&k=20&c=hj8fHpeN8xF4gFdOyixhTOleGvwLQT--JvaAByj8n14="
+      },
+      {
+        "id": 16,
+        "name": "Vegetable Korma",
+        "price": 8.25,
+        "description": "Assorted vegetables cooked in a creamy, mildly spiced cashew and coconut-based sauce.",
+        "image": "https://media.istockphoto.com/id/1053423374/photo/coconut-chicken-in-a-spicy-cream-sauce-close-up-horizontal-top-view.jpg?s=2048x2048&w=is&k=20&c=waRhvwa-oArt_P8yO9gLcY_XYzAvu7hPyDAiVaTX_ic="
+      },
+      {
+        "id": 17,
+        "name": "Tandoori Vegetables",
+        "price": 9.5,
+        "description": "Assorted vegetables marinated in a blend of yogurt and spices, roasted to perfection in a tandoor (clay oven).",
+        "image": "https://media.istockphoto.com/id/953514746/photo/tandoori-chicken-whole-with-naan-and-raita.jpg?s=2048x2048&w=is&k=20&c=9e5PyKzOSI6XUtNJ7iBXuGI43KjlZpJMizYDhlAkr9w="
+      },
+      {
+        "id": 18,
+        "name": "Aloo Gobi",
+        "price": 6.95,
+        "description": "Potatoes and cauliflower florets cooked with onions, tomatoes, and aromatic spices.",
+        "image": "https://media.istockphoto.com/id/1091565958/photo/spicy-potato-curry-indian-recipe.jpg?s=2048x2048&w=is&k=20&c=LItyxs-TTuYWVo-IykXlfkqOeZSD5CgXdbVYVzIwcPo="
+      },
+      {
+        "id": 19,
+        "name": "Vegetable Curry",
+        "price": 12.25,
+        "description": "Assorted vegetables simmered in a tangy and spicy curry with coconut milk and South Indian spices.",
+        "image": "https://media.istockphoto.com/id/462493549/photo/asian-style-fish-curry.jpg?s=2048x2048&w=is&k=20&c=Trdj8CBEYfordF1cu_pWQEdksv9GMn_tMiUfOCFfihg="
+      },
+      {
+        "id": 20,
+        "name": "Chana Masala",
+        "price": 7.5,
+        "description": "Chickpeas cooked in a flavorful tomato-based sauce with onions, garlic, and a blend of spices.",
+        "image": "https://media.istockphoto.com/id/1295943731/photo/chana-masala-or-chole-in-black-bowl-on-dark-slate-table-top-indian-cuisine-veg-chickpeas.jpg?s=2048x2048&w=is&k=20&c=-X0mNaKCowz7Ukr1B1I7COVhQGR7gIAcqXlqHOCzycI="
+      },
+      {
+        "id": 21,
+        "name": "Vegetable Biryani",
+        "price": 13.5,
+        "description": "Aromatic basmati rice cooked with assorted vegetables, spices, and garnished with fried onions and mint.",
+        "image": "https://media.istockphoto.com/id/469866881/photo/mutton-gosht-biryani.jpg?s=2048x2048&w=is&k=20&c=_8EoVyfAJ3HfiQQyl5ZTmtTSazoXOcL5-PfqJAVDYR0="
+      },
+      {
+        "id": 22,
+        "name": "Palak Paneer",
+        "price": 8.95,
+        "description": "Paneer cubes cooked in a creamy spinach sauce with ginger, garlic, and Indian spices.",
+        "image": "https://media.istockphoto.com/id/1353777009/photo/indian-cottage-cheese-curry-with-spinach-directly-above-photo.jpg?s=612x612&w=0&k=20&c=FsDU0eoFopzWweb6Jqwao-7ji7lvUKxPL2gTMRUG2ic="
+      }
+    ]
+  },
+  {
+    "name": "SOUTH INDIAN DELIGHTS",
+    "products": [
+      {
+        "id": 31,
+        "name": "Masala Dosa",
+        "price": 7.95,
+        "description": "Thin, crispy rice crepes filled with a spiced potato mixture, served with coconut chutney and sambar.",
+        "image": "https://media.istockphoto.com/id/909906350/photo/masala-dosa-south-indian-food.jpg?s=612x612&w=0&k=20&c=3CI-bw2NhYaX_t0-CZIXIIXsOygFcUaoGSmzbnVB-fU="
+      },
+      {
+        "id": 32,
+        "name": "Uttapam",
+        "price": 8.5,
+        "description": "Thick rice pancake topped with vegetables like tomatoes, onions, and bell peppers, served with coconut chutney.",
+        "image": "https://media.istockphoto.com/id/1024558380/photo/group-of-south-indian-food-like-masala-dosa-uttapam-idli-idly-wada-vada-sambar-appam-semolina.jpg?s=612x612&w=0&k=20&c=cNol7HXELvV0UmGbdvOd-cG6oZvfb9ApLvJ96mF650s="
+      },
+      {
+        "id": 33,
+        "name": "Rava Idli",
+        "price": 6.75,
+        "description": "Soft and fluffy semolina-based steamed cakes, served with coconut chutney and a variety of chutneys.",
+        "image": "https://media.istockphoto.com/id/481746758/photo/rava-idli-with-sagu.jpg?s=612x612&w=0&k=20&c=LdJO-OQHWnIGyjpzoRG6lKwdq4zj_eTWsqz6CBzA6Ag="
+      },
+      {
+        "id": 34,
+        "name": "Gobi 65",
+        "price": 10.25,
+        "description": "Spicy and flavorful deep-fried cauliflower bites, a popular South Indian appetizer.",
+        "image": "https://media.istockphoto.com/id/1265209311/photo/fried-chicken-kebab-or-kabab.jpg?s=612x612&w=0&k=20&c=cq6fgpRnjpiD3ILifT3bPg2m8EnxtUvG7M8oB-9h1MY="
+      },
+      {
+        "id": 35,
+        "name": "Pongal",
+        "price": 7.25,
+        "description": "Savory rice and lentil porridge, seasoned with black pepper, cumin, and garnished with ghee.",
+        "image": "https://media.istockphoto.com/id/482366402/photo/pongal.jpg?s=612x612&w=0&k=20&c=tUYfVMQ-xj6H4LJ1wOj6SQmRqTV4wxeTVNRSHaiqzNg="
+      },
+      {
+        "id": 36,
+        "name": "Coconut Rice",
+        "price": 6.95,
+        "description": "Fragrant rice cooked with grated coconut, mustard seeds, and curry leaves.",
+        "image": "https://media.istockphoto.com/id/651030294/photo/coconut-rice-south-indian-one-pot-meal-using-leftover-rice-coconut-and-nuts.jpg?s=612x612&w=0&k=20&c=LZVbJdtmU8szaxnZa78rIo9BFMMZSR4LPfJPYd0ek6o="
+      },
+      {
+        "id": 37,
+        "name": "Mysore Pak",
+        "price": 3.5,
+        "description": "Sweet and melt-in-the-mouth fudge made with besan (chickpea flour), ghee, and sugar.",
+        "image": "https://media.istockphoto.com/id/499045932/photo/mysore-pak.jpg?s=612x612&w=0&k=20&c=RGJzhT4DPJLLqX0LVwhDpNlxD7GtjSyZLguKh8uLAiY="
+      },
+      {
+        "id": 38,
+        "name": "Vegetable Upma",
+        "price": 9.25,
+        "description": "A flavorful and hearty dish made from semolina (cream of wheat) cooked with assorted vegetables, tempered with mustard seeds, curry leaves, and garnished with cashews.",
+        "image": "https://media.istockphoto.com/id/1488737992/photo/upma-recipe-suji-ka-upma-rava-upma-with-red-and-coconut-chutney.jpg?s=1024x1024&w=is&k=20&c=u-v3YdnX80PL_xzAKo6nLqZARkkBKfTNI_Z1j3xdR7Y="
+      },
+      {
+        "id": 39,
+        "name": "Avial",
+        "price": 8.95,
+        "description": "Mixed vegetables cooked in a coconut and yogurt-based gravy, flavored with curry leaves.",
+        "image": "https://media.istockphoto.com/id/1338917147/photo/aviyal-is-a-popular-kerala-dish-and-it-is-an-essential-part-of-the-meal.jpg?s=612x612&w=0&k=20&c=c9M3eDQ_NeW5aGwDdS7NOhZY8_ESBYMCCuVIQtFZj-M="
+      }
+    ]
+  },
+  {
+    "name": "INDIAN CHAAT CORNER",
+    "products": [
+      {
+        "id": 41,
+        "name": "Pani Puri",
+        "price": 4.5,
+        "description": "Crispy hollow puris filled with a mixture of spicy, tangy tamarind water, mashed potatoes, and chickpeas.",
+        "image": "https://media.istockphoto.com/id/1314329942/photo/goal-gappa-or-pani-puri.jpg?s=612x612&w=0&k=20&c=l6akiKMfTLE9nR4VonhiOZpZGDY4aEjimAN-BSskF-A="
+      },
+      {
+        "id": 42,
+        "name": "Bhel Puri",
+        "price": 3.75,
+        "description": "A delightful street food snack made with puffed rice, sev, chopped vegetables, and tangy chutneys.",
+        "image": "https://media.istockphoto.com/id/503207899/photo/bhel-puri.jpg?s=612x612&w=0&k=20&c=YiR2W2SvEZYosO8WGf3C0ruaH2J1u2GV2lEUzX2xJwQ="
+      },
+      {
+        "id": 43,
+        "name": "Samosa Chaat",
+        "price": 5.25,
+        "description": "Crushed samosas topped with yogurt, chutneys, and spices, creating a mouthwatering chaat experience.",
+        "image": "https://media.istockphoto.com/id/1198579964/photo/chole-samosa-chaat-an-ever-popular-roadside-treat-in-north-india.jpg?s=612x612&w=0&k=20&c=Asx5IARbJ6OBkoiLt2E5KSp-95buKzplZjxDQ1f5MZw="
+      },
+      {
+        "id": 44,
+        "name": "Dahi Puri",
+        "price": 4.75,
+        "description": "Small, crisp puris filled with a mixture of yogurt, tamarind chutney, potatoes, and spices.",
+        "image": "https://media.istockphoto.com/id/1314802039/photo/forehead-castle-chat.jpg?s=612x612&w=0&k=20&c=_FdVXvODCNpdJ9QujyAD6eaL9waZ6Yp01kfVIMxyjW4="
+      },
+      {
+        "id": 45,
+        "name": "Papdi Chaat",
+        "price": 4.25,
+        "description": "Crunchy papdis topped with yogurt, mint chutney, tamarind chutney, potatoes, and sev.",
+        "image": "https://media.istockphoto.com/id/938380128/photo/papdi-chaat-indian-spice-hand-held-salty-and-sweet.jpg?s=612x612&w=0&k=20&c=2Uao6j3P_zvsVTZ6jNankibRW0zQbSP8lKN8V-QciVM="
+      },
+      {
+        "id": 46,
+        "name": "Kachori Chaat",
+        "price": 5.5,
+        "description": "Deep-fried kachoris topped with yogurt, chutneys, and a mix of spices.",
+        "image": "https://media.istockphoto.com/id/1276742754/photo/indian-fried-chat-kachori-topped-with-curd-and-sev-and-onions-on-a-black-background-with.jpg?s=612x612&w=0&k=20&c=pwhczLb1WJp9bVnMm3uI1KBievU_ChlX5o-ATXw05n0="
+      },
+      {
+        "id": 47,
+        "name": "Ragda Pattice",
+        "price": 6.25,
+        "description": "Potato patties served with a spicy white peas curry (ragda) and topped with chutneys.",
+        "image": "https://media.istockphoto.com/id/1264057625/photo/indian-aloo-tikki-or-potato-cutlet-is-made-out-of-boiled-potatoes-peas-and-various-curry.jpg?s=612x612&w=0&k=20&c=JsKPdXmjEDXN_ekqv9LhJfyXhU9O1cSi6GljnDgd1Pw="
+      },
+      {
+        "id": 48,
+        "name": "Chana Chaat",
+        "price": 4.95,
+        "description": "Chickpeas mixed with onions, tomatoes, spices, and chutneys, creating a flavorful and healthy chaat.",
+        "image": "https://media.istockphoto.com/id/1406389610/photo/black-chickpea-chaat-or-kala-chana-chat.jpg?s=612x612&w=0&k=20&c=VmPVuAgY5qjo7BFYv19Z4VSobAozIpIekDKuc5YMV9U="
+      },
+      {
+        "id": 49,
+        "name": "Aloo Tikki Chaat",
+        "price": 5.75,
+        "description": "Crispy potato patties topped with yogurt, chutneys, and sev, making a delightful chaat.",
+        "image": "https://media.istockphoto.com/id/1204866803/photo/indian-potato-patties-aloo-tikki-served-with-yogurt-close-up-in-a-dish-horizontal-top-view.jpg?s=612x612&w=0&k=20&c=G7VRISuqTrUi_1D6O_EtjH2b1VH6H2yR-D9HKD7ro9s="
+      }
+    ]
+  },
+  {
+    "name": "INDIAN SWEET INDULGENCES",
+    "products": [
+      {
+        "id": 51,
+        "name": "Gulab Jamun",
+        "price": 2.8,
+        "description": "Soft and spongy milk solids balls soaked in sugar syrup, garnished with pistachios or almonds.",
+        "image": "https://media.istockphoto.com/id/521803129/photo/gulab-jamun-11.jpg?s=612x612&w=0&k=20&c=wyJaXY7Uu0hMBCXkcTDRaujSKN6Rp9roJeKDvF6CfHI="
+      },
+      {
+        "id": 52,
+        "name": "Rasgulla",
+        "price": 2.5,
+        "description": "Spongy cottage cheese balls soaked in light sugar syrup, making them a delightful and refreshing dessert.",
+        "image": "https://media.istockphoto.com/id/495022082/photo/indian-sweet-rasgulla-is-a-syrupy-dessert-indian-cottage-cheese.jpg?s=612x612&w=0&k=20&c=aiYrqWEJSFnRrhUc0mY53CcJ9KlhkWLEKtnW6ayqOGo="
+      },
+      {
+        "id": 53,
+        "name": "Jalebi",
+        "price": 3.2,
+        "description": "Deep-fried swirls of batter soaked in saffron-infused sugar syrup, creating a sweet and tangy treat.",
+        "image": "https://media.istockphoto.com/id/1159362325/photo/bread-pakora.jpg?s=612x612&w=0&k=20&c=93uILcInCMXroXgjEJYXNeUzWh5NASSrEnylAgW7hcs="
+      },
+      {
+        "id": 54,
+        "name": "Barfi",
+        "price": 4.5,
+        "description": "Sweet confectionery made with condensed milk, sugar, and various flavors like pistachio or coconut.",
+        "image": "https://media.istockphoto.com/id/1405183155/photo/kaju-katli-also-known-as-kaju-barfi-is-an-indian-dessert-similar-to-a-barfi-made-from-sugar.jpg?s=612x612&w=0&k=20&c=XEbq8Rk-q5-_vn03kYZZ14jwkMEFhxnZNI-gLxHbLzw="
+      },
+      {
+        "id": 55,
+        "name": "Ladoo",
+        "price": 3.75,
+        "description": "Round-shaped sweets made with various ingredients like gram flour, semolina, or coconut.",
+        "image": "https://media.istockphoto.com/id/1200685096/photo/aliv-laddu-halim-ladoo-or-garden-cress-seed-sweet-balls-a-very-nutritious-food-in-winters-or.jpg?s=2048x2048&w=is&k=20&c=tUahpCmFNdEc1xi5TCl58BD2CZHC4cbrNLvFotM9o0M="
+      },
+      {
+        "id": 56,
+        "name": "Kheer",
+        "price": 4.25,
+        "description": "Rice pudding cooked with milk, sugar, and flavored with cardamom, raisins, and nuts.",
+        "image": "https://media.istockphoto.com/id/852765352/photo/kesar-rabri.jpg?s=612x612&w=0&k=20&c=T5IHyHwU9qT5pTeXcPGOubWc1CAiKUmGLy9menBJdpA="
+      },
+      {
+        "id": 57,
+        "name": "Halwa",
+        "price": 5.25,
+        "description": "A sweet dish made with various ingredients like semolina, carrots, or moong dal, cooked in ghee.",
+        "image": "https://media.istockphoto.com/id/1208754471/photo/gajar-ka-halwa.jpg?s=612x612&w=0&k=20&c=lfYKARLXHS2CbHtuU25uDnQQ1YMg83T_qS_eFB8wNRg="
+      },
+      {
+        "id": 58,
+        "name": "Peda",
+        "price": 3.95,
+        "description": "Small, round sweets made with condensed milk, khoya, and flavored with cardamom or saffron.",
+        "image": "https://media.istockphoto.com/id/1265557303/photo/indian-sweet-food-badam-barfi-on-white-background.jpg?s=612x612&w=0&k=20&c=Vm3Zd8xPN-mqVLrRJpnQFEp0WO4aI60mhmUSvVeI4XE="
+      },
+      {
+        "id": 59,
+        "name": "Gajar ka Halwa",
+        "price": 6.5,
+        "description": "A classic Indian dessert made with grated carrots, milk, sugar, and garnished with nuts.",
+        "image": "https://media.istockphoto.com/id/1447442563/photo/homemade-carrot-pudding-gajar-halwa-indian-dessert.jpg?s=612x612&w=0&k=20&c=9O3ArX_Zp9nMA-7Ffpu6zxdoV9FRfcuajc1FlCyQuP8="
+      }
+    ]
+  }
 ]
